@@ -19,7 +19,7 @@ google-chrome --version
 ### Install ChromeDriver Binary for Linux
 ```
 sudo apt-get update
-wget https://chromedriver.storage.googleapis.com/100.0.4896.20/chromedriver_linux64.zip
+wget https://chromedriver.storage.googleapis.com/100.0.4896.60/chromedriver_linux64.zip
 sudo apt-get install unzip
 sudo apt-get update
 sudo unzip chromedriver_linux64.zip
