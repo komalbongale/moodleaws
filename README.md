@@ -24,7 +24,7 @@ sudo apt-get install unzip
 sudo apt-get update
 sudo unzip chromedriver_linux64.zip
 sudo mv chromedriver /usr/bin/chromedriver
-chromedriver – version
+chromedriver –version
 ```
 
 ### Install Java 11 (will be used by Jenkins)
@@ -62,7 +62,7 @@ sudo systemctl status jenkins
 ```
 ### Check Python3 version
 ```
-python3 —version
+python3 --version
 ```
 
 ### If Python3 is not installed
